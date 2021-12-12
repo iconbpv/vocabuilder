@@ -4,3 +4,4 @@ Vocabuilder/obj
 *.suo
 _ReSharper.*
 *.sln.cache
+.vs/
