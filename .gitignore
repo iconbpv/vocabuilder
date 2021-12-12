@@ -1,0 +1,6 @@
+Vocabuilder/bin
+Vocabuilder/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
